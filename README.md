@@ -7,6 +7,7 @@
 ![GitHub License](https://img.shields.io/github/license/Degles/amigo-secreto-challenge)
 
 
+
 ## 🗂️ Índice
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Status do Projeto](#status-do-projeto)
