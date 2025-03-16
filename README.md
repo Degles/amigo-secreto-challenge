@@ -38,7 +38,7 @@ O **Amigo Secreto** é uma aplicação web simples e divertida que ajuda a organ
 ---
 
 ## 🎥 Demonstração da Aplicação
-![Sorteando um Amigo Secreto](assets/sorteando-amigo-secreto.gif)
+![Sorteando um Amigo Secreto](assets/sorteando-amigo-secreto.GIF)
 
 ---
 
