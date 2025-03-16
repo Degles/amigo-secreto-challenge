@@ -10,15 +10,15 @@
 
 
 ## 🗂️ Índice
-- [Descrição do Projeto](#descricao-do-projeto)
+- [Descricao do Projeto](#descricao-do-projeto)
 - [Status do Projeto](#status-do-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Demonstração da Aplicação](#demonstracao-da-aplicacao)
+- [Demonstracao da Aplicacao](#demonstracao-da-aplicacao)
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Pessoas Contribuidoras](#pessoas-contribuidoras)
 - [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-- [Licença](#licenca)
+- [Licenca](#licenca)
 
 
 ---
