@@ -23,17 +23,17 @@
 
 ---
 
-## 📖 Descricao do Projeto
+##  Descricao do Projeto 📖
 O **Amigo Secreto** é uma aplicação web simples e divertida que ajuda a organizar sorteios de amigo secreto entre amigos. Basta adicionar os nomes na lista e clicar no botão de "Sortear Amigo" para descobrir quem será o seu amigo secreto.
 
 ---
 
-## 🚀 Status do Projeto
+##  Status do Projeto 🚀
 ✅ Projeto finalizado e pronto para uso! Será que as coisas se finalizam mesmo? Ou sempre precisamos melhorar? Então, podemos questionar este status finalizado, não acham?
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades ✨
 - Adicione os nomes dos amigos para o sorteio.
 - Sorteio aleatório entre os participantes.
 - Interface amigável e acessível.
@@ -41,34 +41,34 @@ O **Amigo Secreto** é uma aplicação web simples e divertida que ajuda a organ
 
 ---
 
-## 🎥 Demonstracao da Aplicacao
+##  Demonstracao da Aplicacao 🎥
 ![Sorteando um Amigo Secreto](assets/sorteando-amigo-secreto.GIF)
 
 ---
 
-## 🔗 Acesso ao Projeto
+##  Acesso ao Projeto 🔗
 Você pode acessar a aplicação a partir do seguinte link: [Amigo Secreto](https://degles.github.io/amigo-secreto-challenge/)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas 🛠️
 - HTML5
 - CSS3
 - JavaScript
 
 ---
 
-## 🤝 Pessoas Contribuidoras
+##  Pessoas Contribuidoras 🤝
 Aguardando sua participação para melhorar o projeto. POr ora, estou sozinho! :(
 - Degles Siqueira - [GitHub](https://github.com/Degles)
 
 ---
 
-## 👩‍💻 Pessoas Desenvolvedoras do Projeto
+##  Pessoas Desenvolvedoras do Projeto 👩‍💻
 - Degles Siqueira - [GitHub](https://github.com/Degles)
 
 ---
 
-## 📜 Licenca
+##  Licenca 📜
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
