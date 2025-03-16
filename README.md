@@ -67,5 +67,5 @@ Aguardando sua participação para melhorar o projeto. POr ora, estou sozinho! :
 ---
 
 ## 📜 Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](assets/LICENSE) para detalhes.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
