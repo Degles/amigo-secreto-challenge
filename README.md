@@ -10,20 +10,20 @@
 
 
 ## 🗂️ Índice
-- [Descricao do Projeto](#descricao-do-projeto)
-- [Status do Projeto](#status-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Demonstracao da Aplicacao](#demonstracao-da-aplicacao)
-- [Acesso ao Projeto](#acesso-ao-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pessoas Contribuidoras](#pessoas-contribuidoras)
-- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-- [Licenca](#licenca)
+- [Descrição do Projeto](#descrição-do-projeto-)
+- [Status do Projeto](#status-do-projeto-)
+- [Funcionalidades](#funcionalidades-)
+- [Demonstração da Aplicação](#demonstração-da-aplicação-)
+- [Acesso ao Projeto](#acesso-ao-projeto-)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas-)
+- [Pessoas Contribuidoras](#pessoas-contribuidoras-)
+- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto-)
+- [Licença](#licença-)
 
 
 ---
 
-##  Descricao do Projeto 📖
+##  Descrição do Projeto 📖
 O **Amigo Secreto** é uma aplicação web simples e divertida que ajuda a organizar sorteios de amigo secreto entre amigos. Basta adicionar os nomes na lista e clicar no botão de "Sortear Amigo" para descobrir quem será o seu amigo secreto.
 
 ---
@@ -41,7 +41,7 @@ O **Amigo Secreto** é uma aplicação web simples e divertida que ajuda a organ
 
 ---
 
-##  Demonstracao da Aplicacao 🎥
+##  Demonstração da Aplicação 🎥
 ![Sorteando um Amigo Secreto](assets/sorteando-amigo-secreto.GIF)
 
 ---
@@ -69,6 +69,6 @@ Aguardando sua participação para melhorar o projeto. POr ora, estou sozinho! :
 
 ---
 
-##  Licenca 📜
+##  Licença 📜
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
