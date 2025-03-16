@@ -43,7 +43,7 @@ O **Amigo Secreto** é uma aplicação web simples e divertida que ajuda a organ
 ---
 
 ## 🔗 Acesso ao Projeto
-Você pode acessar a aplicação a partir do seguinte link: [Amigo Secreto](https://github.com/username/amigo-secreto)
+Você pode acessar a aplicação a partir do seguinte link: [Amigo Secreto](https://degles.github.io/amigo-secreto-challenge/)
 
 ---
 
@@ -55,13 +55,13 @@ Você pode acessar a aplicação a partir do seguinte link: [Amigo Secreto](http
 ---
 
 ## 🤝 Pessoas Contribuidoras
-Liste aqui as pessoas contribuidoras, se houver. Exemplos:
-- Fulano de Tal - [GitHub](https://github.com/fulano)
+Aguardando sua participação para melhorar o projeto. POr ora, estou sozinho! :(
+- Degles Siqueira - [GitHub](https://github.com/Degles)
 
 ---
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
-- Degles - [GitHub](https://github.com/seu-username)
+- Degles Siqueira - [GitHub](https://github.com/Degles)
 
 ---
 
