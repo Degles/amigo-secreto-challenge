@@ -4,7 +4,8 @@
 
 ![GitHub Language Count](https://img.shields.io/github/languages/count/Degles/amigo-secreto-challenge)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/Degles/amigo-secreto-challenge)
-![GitHub License](LICENSE)
+![GitHub License](https://img.shields.io/github/license/Degles/amigo-secreto-challenge)
+
 
 ## 🗂️ Índice
 - [Descrição do Projeto](#descrição-do-projeto)
